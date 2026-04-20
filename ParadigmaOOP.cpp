@@ -19,6 +19,9 @@ int main() {
     
     mhs.nim = 20250140157;
     mhs.nama = "Ahmad Rassya Maulana";
+    mhs.nilai = 95.5;
+    
+    mhs.printData();
     
     return 0;
 }
