@@ -15,6 +15,7 @@ public:
 };
 
 int main() {
-    cout << "Program Data Mahasiswa" << endl;
+    Mahasiswa mhs;
+    
     return 0;
 }
