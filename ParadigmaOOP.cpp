@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// Class Mahasiswa untuk merepresentasikan data mahasiswa
 class Mahasiswa {
 public:
     int nim;
