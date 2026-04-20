@@ -17,5 +17,8 @@ public:
 int main() {
     Mahasiswa mhs;
     
+    mhs.nim = 20250140157;
+    mhs.nama = "Ahmad Rassya Maulana";
+    
     return 0;
 }
